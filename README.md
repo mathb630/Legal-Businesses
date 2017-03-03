@@ -1,8 +1,7 @@
-# Legal-Businesses
-Legal Businesses in NYC
+# Legal Businesses
 
 <html>
-    <head>Legal Businesses in New York City
+    <head>Legal Businesses throughout New York City
     </head>
     <body>
     <p>Check out this Carto map for New York City licensed businesses!
